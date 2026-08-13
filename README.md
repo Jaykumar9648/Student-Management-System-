@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Java Swing)
 
 A desktop application built in Java (Swing) for managing student records — part of the
@@ -87,3 +88,7 @@ Note: field values should not contain commas, since the delimiter is a comma
 
 Jay Kumar — Java Development Internship, Kinetrexa Software Pvt. Ltd.
 Application ID: KTS020260715548
+=======
+# Student-Management-System-
+A Java Swing-based Student Management System that enables efficient student record management with CRUD operations, CSV-based data storage, search and filter functionality, input validation, custom exception handling, and a clean modular OOP architecture, ensuring maintainability, reliability, and a user-friendly desktop experience.
+>>>>>>> 9245b9fed35a404f7245a4b2f039af763b30d389
