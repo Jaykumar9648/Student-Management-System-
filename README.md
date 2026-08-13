@@ -32,26 +32,6 @@ StudentManagementSystem/
 ├── data/
 │   └── students.csv                       # Auto-created on first run
 └── README.md
-```
-
-## How to Run
-
-Requires Java JDK 8 or later.
-
-```bash
-# From the project root:
-mkdir -p bin
-javac -d bin $(find src -name "*.java")
-java -cp bin Main
-```
-
-On Windows (PowerShell):
-
-```powershell
-mkdir bin
-javac -d bin (Get-ChildItem -Recurse -Filter *.java -Path src).FullName
-java -cp bin Main
-```
 
 The app window will open. Student data is stored in `data/students.csv`, created
 automatically on first run.
